@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "C:/Balajis/Training/ShellScripts"
+		},
+		{
+			"path": "../../yaml"
+		},
+		{
+			"path": "../../Terraform"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../dev1"
+		}
+	],
+	"settings": {
+		"window.autoDetectColorScheme": false,
+		"editor.colorDecorators": true,
+		"editor.defaultColorDecorators": true,
+		"git.allowForcePush": true,
+		"git.allowNoVerifyCommit": true,
+		"workbench.colorTheme": "Visual Studio Dark",
+		"workbench.editor.autoLockGroups": {
+			"default": true
+		}
+	}
+}
